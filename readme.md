@@ -16,7 +16,7 @@
 * __Switch:__ _Using fastai with timm, switch between classification & segmentation (Unet) while sharing a backbone_
     * [LiveCell-Pretraining]([Switch]-LiveCell-Pretrain.ipynb)
     * [CellSeg-Training]([Switch]-CellSeg-Train.ipynb) 
-    * [CellSeg-Inference]([Switch]-CellSeg-Inference.ipynb) _Get predictions and transform from segmantic to instance segmentation, create submission_
+    * [CellSeg-Inference]([Switch]-CellSeg-Inference.ipynb) _Get predictions and transform from semantic to instance segmentation, create submission_
 * __LiveCell:__ _Prepare the livecell data for pretraining_
     * [coco_annotations]([LiveCell]coco_annotations.ipynb)
     * [create_pngMasks]([LiveCell]create_pngMasks.ipynb)
